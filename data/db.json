@@ -1,0 +1,89 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "id": 3,
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "name": "banana",
+      "price": "20",
+      "id": 4
+    },
+    {
+      "name": "maca",
+      "price": "5",
+      "id": 5
+    },
+    {
+      "name": "chocolate",
+      "price": "7",
+      "id": 6
+    },
+    {
+      "name": "chocolate1",
+      "price": "72",
+      "id": 7
+    },
+    {
+      "name": "sorvete",
+      "price": "20",
+      "id": 9
+    },
+    {
+      "name": "lucas",
+      "price": "123",
+      "id": 11
+    },
+    {
+      "name": "luis",
+      "price": "1",
+      "id": 12
+    },
+    {
+      "name": "eduardo",
+      "price": "1234",
+      "id": 13
+    },
+    {
+      "name": "novo produto",
+      "price": "123",
+      "id": 14
+    },
+    {
+      "name": "novo produto",
+      "price": "123",
+      "id": 15
+    },
+    {
+      "name": "novo produto 2",
+      "price": "456",
+      "id": 17
+    },
+    {
+      "name": "melão",
+      "price": "4.50",
+      "id": 18
+    },
+    {
+      "name": "melão",
+      "price": "4.50",
+      "id": 19
+    },
+    {
+      "name": "abacaxi",
+      "price": "7.88",
+      "id": 21
+    },
+    {
+      "name": "abacaxi",
+      "price": "7.88",
+      "id": 22
+    }
+  ]
+}

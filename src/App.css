@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+form {
+  width: 500px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+input, textarea, select {
+  display: block;
+  margin-top: 10px;
+}
